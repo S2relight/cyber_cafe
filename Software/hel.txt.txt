@@ -1,0 +1,1 @@
+Have  to specify the path of the image file "sed.jpg in "self.image("E:\sed.jpg", 10,8,33)" and for the receipt we have to mention its path and also hv to install the libraries
